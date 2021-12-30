@@ -1,21 +1,21 @@
 # Alibek Tastan _a.k.a (**@al1bex**)_
 
-## Contact Information
+### Contact Information
    * __Phone number__: `8(775)-721-68-65`
    * __E-mail__: `alibektastan04@gmail.com`
    * __Instagram__: `@al1bekkkk`
 
-## About myself:
+### About myself:
 > Hello everyone who read the text. My name is, my name is chiki-chiki Slim Shady. OK, jokes aside. My name is Alibek, and I'm 17 yo. I recently moved to Almaty, for studying at International IT University. I love playing competitive games, walking, listen music and learn programming.
 
-## Skills:
+### Skills:
    * HTML5
    * CSS3
    * Native JavaScript(ES5, ES6)
    * C++ (Superficially)
    * Stand on hands (Professional)
 
-## Code Example:
+### Code Example:
    _Written on JavaScript_
 
    ```
@@ -55,12 +55,12 @@ for (let i = 0; i < pars.length; i++) {
 }
    ```
 
-## Courses: 
+### Courses: 
 * HTML5 and CSS3 Basics (_Completed_)
 * [JS Course by Udemy](https://www.udemy.com/course/modern-javascript-from-beginning) (_In progress_)
 * RS School JS/Front-end. Stage 0 (_In progress_)
 
-## Languages:
+### Languages:
 
 * __Russian/Kazakh__: *Native*
 * __English__: *Pre-Intermediate - Intermediate*
