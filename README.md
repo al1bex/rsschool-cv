@@ -1,1 +1,1 @@
-# rsschool-cv
+https://al1bex.github.io/rsschool-cv/cv
