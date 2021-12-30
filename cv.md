@@ -59,3 +59,8 @@ for (let i = 0; i < pars.length; i++) {
 * HTML5 and CSS3 Basics (_Completed_)
 * [JS Course by Udemy](https://www.udemy.com/course/modern-javascript-from-beginning) (_In progress_)
 * RS School JS/Front-end. Stage 0 (_In progress_)
+
+## Languages:
+
+* __Russian/Kazakh__: *Native*
+* __English__: *Pre-Intermediate - Intermediate*
